@@ -3159,6 +3159,14 @@
 				color: #2E3842;
 			}
 
+                        .wrapper.style5 a:hover {
+                                color: #A31F34;
+                        }
+
+                        .wrapper.style5 a:active {
+                                color: #d62946;
+                        }
+
 			.wrapper.style5 input[type="text"],
 			.wrapper.style5 input[type="password"],
 			.wrapper.style5 input[type="email"],
