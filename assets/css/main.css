@@ -2378,6 +2378,29 @@
                         }
 
 
+                input[type="submit"].fit3,
+                input[type="reset"].fit3,
+                input[type="button"].fit3,
+                button.fit3,
+                .button.fit3 {
+                        background-color: #A31F34;
+                        box-shadow: none !important;
+                        color: #ffffff !important;
+                }
+
+
+                        input[type="submit"].fit3:hover,
+                        input[type="reset"].fit3:hover,
+                        input[type="button"].fit3:hover,
+                        button.fit3:hover,
+                        .button.fit3:hover {
+                                background-color: #b8233b !important;
+                        }
+
+                        .button.fit3:active {
+                                background-color: #8e1b2d !important;
+                        }
+
 		input[type="submit"].disabled, input[type="submit"]:disabled,
 		input[type="reset"].disabled,
 		input[type="reset"]:disabled,
