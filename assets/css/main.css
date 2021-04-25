@@ -1983,6 +1983,11 @@
 				width: 100%;
 			}
 
+                .image.frac {
+                        width: 25%;
+                }
+
+
 /* List */
 
 	ol {
